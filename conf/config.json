@@ -13,7 +13,7 @@
 			[
 				{
 					"id": "UUID",
-					"alterId": ALTER_ID
+					"alterId": ALTERID
 				}
 			]
 		},
@@ -22,7 +22,7 @@
 			"network":"ws",
 			"wsSettings":
 			{
-				"path": "WS_PATH"
+				"path": "PATH"
 			}
 		}
 	},
