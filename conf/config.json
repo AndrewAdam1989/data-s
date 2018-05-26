@@ -22,7 +22,7 @@
 			"network":"ws",
 			"wsSettings":
 			{
-				"path": "PATH"
+				"path": "WS_PATH"
 			}
 		}
 	},
