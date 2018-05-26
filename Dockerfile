@@ -1,9 +1,9 @@
 from nginx:latest
 
 ENV UUID "00000000-0000-0000-0000-000000000000"
-ENV ALTER_ID 64
-ENV WS_PATH "/sakura"
-ENV VER=3.14
+ENV ALTERID 64
+ENV PATH "/sakura"
+ENV VER=3.21
 
 ADD conf/nginx.conf /etc/nginx/
 ADD conf/default.conf /etc/nginx/conf.d/
